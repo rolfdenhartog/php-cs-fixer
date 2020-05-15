@@ -48,7 +48,7 @@ return [
     'no_useless_return'                             => true,
     'no_whitespace_in_blank_line'                   => true,
     'not_operator_with_space'                       => false,
-    'not_operator_with_successor_space'             => false,
+    'not_operator_with_successor_space'             => true,
     'ordered_imports'                               => true,
     'phpdoc_align'                                  => true,
     'phpdoc_add_missing_param_annotation'           => true,
