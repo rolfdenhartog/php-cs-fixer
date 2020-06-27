@@ -1,5 +1,5 @@
 {
-    "name": "rolfdenhartog/php-cs-fixer",
+    "name": "rdh/php-cs-fixer",
     "description": "A personal set of rules",
     "type": "library",
     "authors": [

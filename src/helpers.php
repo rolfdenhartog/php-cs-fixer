@@ -1,6 +1,6 @@
 <?php
 
-namespace RolfDenHartog;
+namespace Rdh;
 
 use PhpCsFixer\Config;
 use PhpCsFixer\Finder;
