@@ -28,6 +28,7 @@ return [
     'cast_spaces'                                   => ['space' => 'single'],
     'concat_space'                                  => ['spacing' => 'one'],
     'mb_str_functions'                              => true,
+    'native_function_invocation'                    => ['include' => ['@internal']],
     'new_with_braces'                               => true,
     'no_blank_lines_after_class_opening'            => true,
     'no_extra_blank_lines'                          => [
