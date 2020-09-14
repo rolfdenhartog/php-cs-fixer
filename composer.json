@@ -1,6 +1,7 @@
 {
     "name": "rdh/php-cs-fixer",
     "description": "A personal set of rules",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
